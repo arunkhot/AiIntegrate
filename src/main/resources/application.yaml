@@ -1,0 +1,6 @@
+nvidia.api.key: nvapi-sampleKey
+nvidia.api.base-url: https://integrate.api.nvidia.com/v1
+server:
+#  servlet:
+#    context-path: /ai
+  port: 80
